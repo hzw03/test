@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # test
 =======
 # vue3-big-event-admin
@@ -37,3 +38,6 @@ pnpm build
 pnpm lint
 ```
 >>>>>>> 286df31 (vue)
+=======
+# test
+>>>>>>> 2a8f02cf36435d6d63e3523d73d61c73267f6e5f
